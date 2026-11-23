@@ -9,3 +9,5 @@
 - [Roblox Game Guides: Read a game guide](ngs-daily-1122-1/)
 
 - [A Field Guide to Shibuya Roblox Wiki](shibu-field-notes-1123-1/)
+
+- [A Field Guide to Trivia Nook](trivia-field-notes-1123-1/)
